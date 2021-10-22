@@ -1,0 +1,7 @@
+{
+  "name": "newangular",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
